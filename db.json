@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Samsung Galaxy",
+      "category": "mobiles",
+      "price": 80000
+    },
+    {
+      "id": "2",
+      "name": "Apple Iphone",
+      "category": "mobiles",
+      "price": 60000
+    },
+    {
+      "id": "3",
+      "name": "Washing Machine",
+      "category": "Electronics",
+      "price": 20000
+    },
+    {
+      "id": "4",
+      "name": "Kids Car",
+      "category": "Electronics",
+      "price": 2000
+    },
+    {
+      "id": "-3XPTixpCjc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
